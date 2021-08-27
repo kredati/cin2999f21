@@ -1,17 +1,17 @@
 # Cinema Studies PhD Proseminar
 #### CIN2999 F19: Research Seminar in Cinema Studies
 
-
 ### Land acknowledgment
 We acknowledge this sacred land on which the University of Toronto operates. It has been a site of human activity for 15,000 years. This land is the territory of the Huron-Wendat and Petun First Nations, the Seneca, and most recently, the Mississaugas of the Credit River. The territory was the subject of the Dish with One Spoon Wampum Belt Covenant, an agreement between the Iroquois Confederacy and Confederacy of the Ojibwe and allied nations to peaceably share and care for the resources around the Great Lakes.
 
 Today, the meeting place of Toronto is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work in the community, on this territory.
 
 ### Administrativa
-* **Course meetings.** Tuesdays, 10am–noon, Innis College 223. Please note we will start at U of T time.
+* **Course meetings.** , Mondays, 1–3pm. Format TBD.
 * **Instructor.** Scott Richmond, Associate Professor of Cinema & Digital Media.
 * **Office.** Innis 230E.
-* **Office hours.** Tuesdays, 1–3pm; sign up at https://calendly.com/s-richmond/officehours. Also: by appointment.
+* **Office hours.** Wednesdays, 1–4pm, and by appointment. NB: You must book an office hours slot ahead of time using [Scott's bookings app](https://outlook.office365.com/owa/calendar/ScottRichmond@utoronto.onmicrosoft.com/bookings/).
+* **Group pomodoros.** TBD. (More on this below.)
 * **Contact.** by email: s.richmond@utoronto.ca, or by Slack DM.
 
 ### Course description
@@ -29,7 +29,7 @@ This is an impossible project for a single semester, and certainly you shouldn�
 In this course, students will:
 * Select a supervisor if they have not yet done so.
 * Meet with their supervisor no fewer than once (but normatively twice).
-* Discuss major advising and program goals with their supervisor, including (but not limited to) exams, publishing, conferences, and possible dissertation projects.
+* Discuss major advising and program goals with the class and their supervisor, including (but not limited to) exams, publishing, conferences, and possible dissertation projects.
 * Gain critical familiarity with all parts of academic life, including research (publishing, conferences, grants, writing), teaching, and service.
 * Encounter and discuss all major milestones of the academic career path up to tenure.
 * Read the work of, and engage in conversation with, a substantial number of CSI faculty.
@@ -40,13 +40,16 @@ In this course, students will:
 ### Coursework & marks
 This course is pass/fail. To gain a passing mark, students must complete, to my satisfaction, all assignments in the course by their stated deadline. In other words: almost all of this is process-based; do the things in good faith, trust the process, pass the course.
 
-Be aware that this iteration of the proseminar is substantially different from previous iterations, in that it also includes a certain amount of reading. Please do the reading carefully, but not exactingly; I would not ask you to do it if I didn’t think it important. By the same token, some of the reading is there to be a resource to you as you develop your practice and in later stages of the program. I will do my best to guide you in the kind of reading I expect.
+The reading for this course has a different status than in other sorts of coursework. Please do the reading carefully, but not exactingly; I would not ask you to do it if I didn’t think it important. By the same token, some of the reading is there to be a resource to you as you develop your practice and in later stages of the program. I will do my best to guide you in the kind of reading I expect.
 
 ### Required texts
 We have three required books this term, which I have ordered into the U of T Bookstore:
 * Wayne Booth, et al., _The Craft of Research_, 4th ed. (Please do buy the current version, as we will be working with it closely).
 * Joan Bolker, _Writing Your Dissertation in Fifteen Minutes a Day_.
-* Eric Hayot, _The Elements of Academic Style: Writing for the Humanities_. (NB: I ordered this late and it may not arrive to the bookstore for some time after the beginning of term; I will keep you posted.)
+
+#### Recommended texts
+* Joli Jensen, *Write No Matter What*.
+* 
 
 ### Schedule
 #### Week 1, September 10: Introductions, and What is a university?
