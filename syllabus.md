@@ -243,7 +243,7 @@ Topics covered:
 * Writing and arguing with problems
 * Teaching questions & problems
 
-#### Program milestone: Qualifying Exam form must be filed with graduate office (includes drafts of special fields précis and lists).
+#### Program milestone: Qualifying Exam form must be filed with graduate office (includes drafts of special fields précis and lists)
 
 #### Week 12, December 6: Introductions
 * Reread Booth et al., _Craft of Research_, ch. 16, “Introductions and Conclusions”
@@ -270,7 +270,7 @@ Homework due:
   * Rewritten introduction
   * Conference proposal
 
-#### January, early weeks, date TBD: Annual 2nd-year PhD conference
-You will present your revised conference paper to each other—and to the grads & faculty in the Institute.
+#### January, early weeks, date TBD: Annual 2nd-year PhD symposium
+You will present your revised conference papers to each other—and to the grads & faculty in the Institute.
 
 
