@@ -7,7 +7,7 @@
 You have two very quick bits of preparation this week:
 * To the best of your ability in not more than 10 minutes, write a Topic/Question/Problem sentence à la Booth (in chs. 3 & 4)
 * Take a segment of your paper (in its current state, whatever that is; approx. 3pp., as a kind of "chunk" of argumentation) and write a paragraph-level outline: in a sentence or less, write down the point of each paragraph.
-* Then, write a single-sentence summary of that segment---based on your knowledge of the prose of that segment, but relying as much as you can on the summaries you have produced.
+* Then, write a single-sentence summary of that segment—based on your knowledge of the prose of that segment, but relying as much as you can on the summaries you have produced.
 
 ## Lesson
 #### In class on Tues., Nov. 12
