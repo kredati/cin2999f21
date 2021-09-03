@@ -43,7 +43,7 @@ This course is pass/fail. To gain a passing mark, students must complete, to my 
 The reading for this course has a different status than in other sorts of coursework. Please do the reading carefully, but not exactingly; I would not ask you to do it if I didn’t think it important. By the same token, some of the reading is there to be a resource to you as you develop your practice and in later stages of the program. I will do my best to guide you in the kind of reading I expect.
 
 ### Required texts
-We have two required books this term, which I have ordered into the U of T Bookstore:
+We have two required books this term. You are responsible for acquiring these in some version, preferably not an e-book, but something with standard page numbers:
 * Wayne Booth, et al., _The Craft of Research_, 4th ed. (Please do buy the current version, as we will be working with it closely.)
 * Joan Bolker, _Writing Your Dissertation in Fifteen Minutes a Day_
 
@@ -55,8 +55,7 @@ We have two required books this term, which I have ordered into the U of T Books
 ### Schedule
 #### Week 1, September 13: Introductions, and the need for process
 Homework due:
-* Select, tentatively, a seminar paper to work on this term.
-* Either: attend the group writing session (schedule TBD), or use the pomodoro technique for at least one task. 
+* Select, tentatively, a seminar paper to work on this term. This will be your revision project. Select the best seminar paper you wrote, or the one that feels like it has the most unfinished business, or that you can bear to keep working on, etc. No need to upload it yet; just have a paper in mind.
 
 Reading due:
 * Bolker on process from *Writing Your Dissertation*, introduction and chs. 1 & 3
@@ -83,6 +82,9 @@ Topics covered:
 * The whys and wherefores of university/college life
 * The cult of (over)work
 * What kinds of activities do we want to do?
+
+Homework due:
+* Either: attend the group writing session in week 1 (scheduling TBD), or use the pomodoro technique for at least one task.
 
 #### Week 3, September 27: The program & surviving it, part 1: The long view: Outcomes
 Reading due:
