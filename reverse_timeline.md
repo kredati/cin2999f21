@@ -110,7 +110,7 @@ Your portfolio coming out of the PhD includes:
 * A completed dissertation.
 * Two journal articles, the closer to published the better. One should be a dissertation chapter, one your best seminar paper from coursework.
 * Three conference presentations, at least two of which are at major conferences, at least one of which should be at SCMS.
-* A single book review.
+* A single book review (and not more—also, this is optional).
 * A plan for revising your dissertation into a book.
 * A fantasy of a research trajectory for your tenure-track experience.
 * A portfolio for the job market, which includes:
@@ -141,7 +141,7 @@ In addition to the above, you should be bringing with you a hefty portfolio of �
 * In consultation with your supervisor, revise one of your first two chapters for publication and submit it.
 
 _By now_:
-* You have written a first grant proposal.
+* You have written a first (and second!) grant proposal based on your dissertation work.
 * You have an approved dissertation proposal.
 * You have completed a draft of your first dissertation chapter.
 * You have done the lion’s share of fieldwork.
