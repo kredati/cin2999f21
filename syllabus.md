@@ -44,22 +44,38 @@ The reading for this course has a different status than in other sorts of course
 
 ### Required texts
 We have three required books this term, which I have ordered into the U of T Bookstore:
-* Wayne Booth, et al., _The Craft of Research_, 4th ed. (Please do buy the current version, as we will be working with it closely).
-* Joan Bolker, _Writing Your Dissertation in Fifteen Minutes a Day_.
+* Wayne Booth, et al., _The Craft of Research_, 4th ed. (Please do buy the current version, as we will be working with it closely.)
+* Joan Bolker, _Writing Your Dissertation in Fifteen Minutes a Day_
 
 #### Recommended texts
-* Joli Jensen, *Write No Matter What*.
-* 
+* Joli Jensen, *Write No Matter What*
+* Eric Hayot, *The Elements of Academic Style*
 
 ### Schedule
-#### Week 1, September 10: Introductions, and What is a university?
+#### Week 1, September 13: Introductions, and the need for process
+Homework due:
+* Select, tentatively, a seminar paper to work on this term.
+* Either: attend the group writing session (schedule TBD), or use the pomodoro technique for at least one task. 
+
+Reading due:
+* Bolker on process from *Writing Your Dissertation*, introduction and chs. 1 & 3
+* Joli Jensen, preface & Part 1 of *Write No Matter What*
+* Alan Henry, “[Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)”
+* Alan Henry, “[Productivity 101: A Primer to the Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)”
+
+Topics covered:
+* Approaches to process, including metacognition.
+* Basic productivity techniques.
+* Demystifying academic writing.
+* The importance of a writing group.
+
+#### Week 2, September 20: What is a university?
 Reading due:
 * Wendy Brown, “Educating Human Capital,” from _Undoing the Demos_
 * Malcolm Harris, “Go to College,” from _Kids These Days: Human Capital and the Making of Millennials_
-* Gregory Colón Semenza, “The Culture of a Graduate Program,” from _Graduate Study for the 21st Century_
 * William Zissner, “College Pressures”
-
-No homework due.
+* Fred Moten & Stefany Harney, "The University and the Undercommons: Seven Theses"
+* Gregory Colón Semenza, “The Culture of a Graduate Program,” from _Graduate Study for the 21st Century_
 
 Topics covered:
 * Neoliberalism & higher education
@@ -67,47 +83,35 @@ Topics covered:
 * The cult of (over)work
 * What kinds of activities do we want to do?
 
-#### Week 2, September 17: The program & surviving it
+#### Week 3, September 27: The program & surviving it, part 1: The long view
 Reading due:
-* Karen Kelsky “Why You Want and Need Grants” from _The Professor is In_
-* Eric Hayot, _The Elements of Academic Style_, chs. 2 & 3
-* Alan Henry, “[Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)”
-* Alan Henry, “[Productivity 101: A Primer to the Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)”
-* [CSI PhD handbook](./phd_handbook_2019.pdf)
+* Karen Kelsky “Why You Want and Need Grants,” and “Where are the Jobs? Institution Types and Ranks,” from _The Professor is In_
+* Film studies job wikis: [2018–19](https://academicjobs.wikia.org/wiki/Film_Studies_2018-2019); [2019–20](https://academicjobs.wikia.org/wiki/Film_Studies_2019-2020); [2020–21](https://academicjobs.wikia.org/wiki/Film_Studies_2020-2021); [2021–22](https://academicjobs.wikia.org/wiki/Film_Studies_2021-2022).
+
+* [CSI PhD handbook](./phd_handbook_2021.docx)
 * [Reverse timeline](./reverse_timeline.md)
 
-In-class visits:
-* Brian Price and Tony Pi to discuss departmentally available funding
-
-Homework due:
-* Select and upload a term paper from year 1 of the PhD to work with this term.
-* Complete CRC web workshop on grad resources.
-* Use the Pomodoro technique for at least one task this week.
-
 Topics covered:
-* Basic productivity techniques
 * Getting what you need
 * Applying for grants
 * The long view of an academic career trajectory
 * What to produce & when (from now through tenure)
-
-#### Week 3, September 24: The career, the job, the program, the next steps
-Reading due:
-* Bolker, _Writing Your Dissertation_, ch. 2, “Choosing and Advisor and a Committee”
-* Kelsky, “Where are the Jobs? Institution Types and Ranks,” “Best Advisors, Worst Advisors,” and “A Good Advisor is Not Nice” from _The Professor is In_
-* [2018 film studies jobs wiki](https://academicjobs.wikia.org/wiki/Film_Studies_2018-2019)
-* Reread: [Reverse timeline](./reverse_timeline.md)
-
-In-class visit:
-* Amanda Greer and Félix Veilleux from current 3rd year cohort talk about their exam experiences.
-
-Homework:
-* Select a job ad posted to the wiki that seems confusing, interesting, bewildering, or a plausible job ad for you to discuss.
-
-Topics covered:
 * Kinds of jobs
 * What does a job ad look like
 * How to ignore the market until it’s worth worrying about
+
+#### Week 4, October 4: The program & surviving it, part 2: The short view
+Reading due:
+* Bolker, _Writing Your Dissertation_, ch. 2, “Choosing and Advisor and a Committee”
+* Kelsky, “Best Advisors, Worst Advisors,” and “A Good Advisor is Not Nice” from _The Professor is In_
+
+In-class visit:
+* Students TBD from current 3rd year cohort talk about their exam experiences.
+
+Homework due:
+* Complete CRC web workshop on grad resources.
+
+Topics covered:
 * Getting your head straight about the next milestone: the exam
 * A prompt: if you have not already, approach a faculty member regarding supervision
 * Another prompt: if you already have a supervisor, email them about exams
