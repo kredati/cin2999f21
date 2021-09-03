@@ -19,9 +19,8 @@ The preparation here is fairly straightfoward:
 In this lesson, as a class, we will arrange one of your sample paragraphs together so that it: 
 1. uses themes in a controlled fashion, drawing together three different themes, and not more; 
 2. puts subjects and verbs consistently as close together as possible, eschewing qualifying clauses and complex subjects; 
-3. avoids impersonal subjects; 
-4. uses consistent characters, matching your thematic strands, with two or perhaps three characters in the paragraph; and
-5. is arranged so that it deploy's Hayot's "uneven U" structure.
+3. avoids impersonal subjects; and,
+4. uses consistent characters, matching your thematic strands, with two or perhaps three characters in the paragraph.
 
 ### Application
 #### Due to course Slack by Monday, November 11.
