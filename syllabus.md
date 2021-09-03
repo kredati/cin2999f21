@@ -242,7 +242,7 @@ Topics covered:
 * Writing and arguing with problems
 * Teaching questions & problems
 
-#### Program milestone, first week of December: Qualifying Exam form must be filed with graduate office (includes drafts of special fields précis and lists)
+#### Program milestone, first week of December: Qualifying Exam form must be filed with graduate office (includes two 250-word special fields précis)
 
 #### Week 12, December 6: Introductions
 * Reread Booth et al., _Craft of Research_, ch. 16, “Introductions and Conclusions”
