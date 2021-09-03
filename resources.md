@@ -31,8 +31,8 @@ Below is a list of books that may help, in a few categories
 
 ### On process
 * David Allen, _Getting Things Done: The Art of Stress-Free Productivity_ (Penguin, 2015). <br /> The classic. I try, and fail, to follow its prescriptions. (Neoliberal self-optimized productivity is just like modernism: “Try again. Fail again. Fail better.” [Beckett]) A system, a practice, and an outlook for how to manage your projects. I suspect that the necessity of such a system may not seem very obvious at your stage; as you move into faculty life with more plates spinning, something like this will start to feel _very_ necessary.
-* Hayot’s _Elements of Academic Style_ has very useful pragmatic prescriptions for the writing process.
 * Bolker’s _Writing Your Dissertation_ has even more useful ways to think about such prescriptions, and how to consider your relation to them.
+* Hayot’s _Elements of Academic Style_ has very useful pragmatic prescriptions for the writing process.
 * Also, Sword and Jensen are basically process books. I’ve included them in the “Writing” section above, but if you’re mostly concerned about process, in addition to Hayot and Bolker, these books are sane.
 
 ## Other resources
