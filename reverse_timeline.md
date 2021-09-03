@@ -141,6 +141,7 @@ In addition to the above, you should be bringing with you a hefty portfolio of �
 * In consultation with your supervisor, revise one of your first two chapters for publication and submit it.
 
 _By now_:
+* You have written a first grant proposal.
 * You have an approved dissertation proposal.
 * You have completed a draft of your first dissertation chapter.
 * You have done the lion’s share of fieldwork.
@@ -148,10 +149,12 @@ _By now_:
 * You have submitted your first essay for publication.
 
 #### Year 3
+* Apply for a SSHRC, due by the end of September/early October (precise deadline varies by year).
 * Complete a dissertation prospectus. (First draft: September; approved: absolutely not later than the end of November.)
 * Apply for a summer course in summer of year 3, if you wish.
 * Consult with your supervisor about fieldwork and funding it.
 * Start writing your first dissertation chapter (starting in December [winter break] and after).
+* Apply for an OGS.
 * Present work-in-progress from this dissertation chapter at SCMS (end of March).
 * Complete your first dissertation chapter, the earlier the better; end of July is a hard deadline realistic and gives your supervisor(y committee) enough time to read & respond before the beginning of the school year.
 * Any (or at least most) field research you must do should take place during this summer.
@@ -168,8 +171,8 @@ _By now_:
 #### Year 2: The end of coursework, and exams
 * One term of coursework (September through December).
 * This proseminar!
-* Select a supervisor (September, or at the latest, October). (NB: The [PhD handbook](./phd_handbook_2018.pdf) specifies this deadline is November 15. I believe you should do this much sooner. See the next point.)
-* Declare your two special fields “by the end of the first week of December.” (The form will ask for a preface and a bibliography. It is not plausible to meet with a supervisor on November 15 and have your special fields hammered out, even in draft form, in three weeks.) Note that this declaration is preliminary; continue to work with your supervisor & committee to refine the lists through March.
+* Select a supervisor (October). (NB: The [PhD handbook](./phd_handbook_2021.docx) specifies this deadline is November 15. I believe you should do this much sooner. See the next point.)
+* Declare your two special fields “by the end of the first week of December.” (The form will ask for a preface and a bibliography. It is not plausible to meet with a supervisor for the first time on November 15 and have your special fields hammered out, even in draft form, in three weeks.) Note that this declaration is preliminary; continue to work with your supervisor & committee to refine the lists through March.
 * Study for special field exams (December through June).
 * Take special field exams: May and/or June.
 * Continue to develop your intellectual problems, formulating an idea for a dissertation (throughout the year).
