@@ -43,13 +43,14 @@ This course is pass/fail. To gain a passing mark, students must complete, to my 
 The reading for this course has a different status than in other sorts of coursework. Please do the reading carefully, but not exactingly; I would not ask you to do it if I didn’t think it important. By the same token, some of the reading is there to be a resource to you as you develop your practice and in later stages of the program. I will do my best to guide you in the kind of reading I expect.
 
 ### Required texts
-We have three required books this term, which I have ordered into the U of T Bookstore:
+We have two required books this term, which I have ordered into the U of T Bookstore:
 * Wayne Booth, et al., _The Craft of Research_, 4th ed. (Please do buy the current version, as we will be working with it closely.)
 * Joan Bolker, _Writing Your Dissertation in Fifteen Minutes a Day_
 
 #### Recommended texts
 * Joli Jensen, *Write No Matter What*
 * Eric Hayot, *The Elements of Academic Style*
+* Gregory Colón Semenza, *Graduate Study for the 21st Century*
 
 ### Schedule
 #### Week 1, September 13: Introductions, and the need for process
@@ -64,10 +65,10 @@ Reading due:
 * Alan Henry, “[Productivity 101: A Primer to the Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)”
 
 Topics covered:
-* Approaches to process, including metacognition.
-* Basic productivity techniques.
-* Demystifying academic writing.
-* The importance of a writing group.
+* Approaches to process, including metacognition
+* Basic productivity techniques
+* Demystifying academic writing
+* The importance of a writing group
 
 #### Week 2, September 20: What is a university?
 Reading due:
@@ -78,7 +79,7 @@ Reading due:
 * Gregory Colón Semenza, “The Culture of a Graduate Program,” from _Graduate Study for the 21st Century_
 
 Topics covered:
-* Neoliberalism & higher education
+* Neoliberalism & higher education, and how to relate to/survive it
 * The whys and wherefores of university/college life
 * The cult of (over)work
 * What kinds of activities do we want to do?
@@ -115,6 +116,7 @@ In-class visit:
 Homework due:
 * Peruse school of graduate studies resources pages [here](https://www.one-tab.com/page/VS8lKYd2SvaQLKbzzymcGA)
 * Write a rough draft of a special field précis, of ~250 words, articulating a possible field for an exam area (NB: we will talk about these, but the rest of the special field exam process will be in consultation with your supervisor)
+* Upload the paper you'll be revising for the rest of the term
 
 Topics covered:
 * Getting your head straight about the next milestone: the exam
@@ -158,7 +160,8 @@ Reading due:
 * Kyla Wazana Tomkins, "[We Aren't Here to Learn What We Already Know](http://avidly.lareviewofbooks.org/2016/09/13/we-arent-here-to-learn-what-we-know-we-already-know/)." 
 * [CSI Undergraduate Course Bulletin](http://cinema.utoronto.ca/undergradcourses.html)
 * Sample CSI syllabi
-* Skim Gregory Semenza, "Teaching," from *Graduate Study for the 21st Century*.
+* Skim (or recommended reading): Gregory Semenza, "Teaching," from *Graduate Study for the 21st Century*
+
 Homework due:
 * Write a [“course proposal”](./3rd_year_teaching.md) for a 200– or 300-level undergrad CSI course.
 
