@@ -20,7 +20,7 @@ In addition to scholarly associations, journals, departments, and other organiza
 * **Screen.**
 * **World Picture**. At U of T every other year.
 * **Film & History.**
-* **Film-Philosophy.** In Toronto in 2020.
+* **Film-Philosophy.** 
 * **Spiral.** Hosted each year in Toronto.
 * **Domitor.**
 * **Women and the Silent Screen.**

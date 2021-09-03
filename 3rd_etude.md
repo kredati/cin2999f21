@@ -27,4 +27,4 @@ We will discuss various stasises, destabilizations, resolutions, and benefits: h
 
 ## Application
 #### Due by Monday, Nov. 25
-Write a complete, plausible introduction to your paper.
+Write a complete, plausible, first-draft introduction to your paper.
