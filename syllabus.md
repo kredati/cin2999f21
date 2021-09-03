@@ -1,5 +1,5 @@
 # Cinema Studies PhD Proseminar
-#### CIN2999 F19: Research Seminar in Cinema Studies
+#### CIN2999 F21: Research Seminar in Cinema Studies
 
 ### Land acknowledgment
 We acknowledge this sacred land on which the University of Toronto operates. It has been a site of human activity for 15,000 years. This land is the territory of the Huron-Wendat and Petun First Nations, the Seneca, and most recently, the Mississaugas of the Credit River. The territory was the subject of the Dish with One Spoon Wampum Belt Covenant, an agreement between the Iroquois Confederacy and Confederacy of the Ojibwe and allied nations to peaceably share and care for the resources around the Great Lakes.
@@ -58,7 +58,7 @@ Homework due:
 * Select, tentatively, a seminar paper to work on this term. This will be your revision project. Select the best seminar paper you wrote, or the one that feels like it has the most unfinished business, or that you can bear to keep working on, etc. No need to upload it yet; just have a paper in mind.
 
 Reading due:
-* Bolker on process from *Writing Your Dissertation*, introduction and chs. 1 & 3
+* Bolker on process from *Writing Your Dissertation*: introduction and chs. 1 & 3
 * Joli Jensen, preface & Part 1 of *Write No Matter What*
 * Alan Henry, “[Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)”
 * Alan Henry, “[Productivity 101: A Primer to the Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)”
