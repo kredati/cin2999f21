@@ -86,6 +86,7 @@ Topics covered:
 #### Week 3, September 27: The program & surviving it, part 1: The long view
 Reading due:
 * Karen Kelsky “Why You Want and Need Grants,” and “Where are the Jobs? Institution Types and Ranks,” from _The Professor is In_
+* Sample winning doctoral SSHRC proposal (TBD).
 * Film studies job wikis: [2018–19](https://academicjobs.wikia.org/wiki/Film_Studies_2018-2019); [2019–20](https://academicjobs.wikia.org/wiki/Film_Studies_2019-2020); [2020–21](https://academicjobs.wikia.org/wiki/Film_Studies_2020-2021); [2021–22](https://academicjobs.wikia.org/wiki/Film_Studies_2021-2022).
 
 * [CSI PhD handbook](./phd_handbook_2021.docx)
@@ -100,13 +101,16 @@ Topics covered:
 * What does a job ad look like
 * How to ignore the market until it’s worth worrying about
 
+Homework due:
+* Upload your journal club article. *Select an essay or book chapter, published in English (not translated), since 2000, that is the kind of academic writing that really turns your crank: it inspires you to acts of research & intellection. It's best, but not requred, for it to be a stand-alone piece: a journal article or chapter in an edited volume (and not a chapter from a monograph). Upload a PDF of it to the course Slack.*
+
 #### Week 4, October 4: The program & surviving it, part 2: The short view
 Reading due:
 * Bolker, _Writing Your Dissertation_, ch. 2, “Choosing and Advisor and a Committee”
 * Kelsky, “Best Advisors, Worst Advisors,” and “A Good Advisor is Not Nice” from _The Professor is In_
 
 In-class visit:
-* Students TBD from current 3rd year cohort talk about their exam experiences.
+* Students TBD from current 3rd year cohort talk about their exam experiences
 
 Homework due:
 * Peruse school of graduate studies resources pages [here](https://www.one-tab.com/page/VS8lKYd2SvaQLKbzzymcGA).
@@ -114,13 +118,16 @@ Homework due:
 Topics covered:
 * Getting your head straight about the next milestone: the exam
 * A prompt: if you have not already, approach a faculty member for a meeting to discuss supervision
-* Another prompt: if you already have a supervisor, email them about exams
+* Another prompt: if you already have a supervisor, email them about exams or schedule an appointment
 * What to talk about, and how to talk with a supervisor
 
-#### Week 4, October 1: Sharing your scholarship
+#### Week 5, October 11: No class on Thanksgiving day
+
+#### Week 6, October 18: Sharing your scholarship: Publishing and Conferencing
 Reading due:
 * Kelsky, “Publish This, Not That,” and “Applying to Conferences” from _The Professor is In_
-* Hayot, _Elements_, chs. 4–7
+* Gregory Semenza, "Attending Conferences" and "Publishing,  from _Graduate Study for the 21st Century_
+* Scott's selections from "journal club" (TBD).
 * Peruse the [Penn English CFPs](http://call-for-papers.sas.upenn.edu/)
 * Browse websites & programs for conferences in our [conference list](./conferences.md)
 * Browse websites for a few journals in [SCMS's film & media studies journals list](https://www.cmstudies.org/page/resource_journals_AF)
@@ -143,12 +150,14 @@ Topics covered:
   - How to locate conferences
   - How to fund conference travel
 
-#### Week 5, October 8: Forming young minds: pedagogy
+#### Week 7, October 25: Forming young minds: pedagogy
 Reading due:
-* Jacques Rancière, "[An Intellectual Adventure](https://cin2999f19.slack.com/files/UM11WBR8A/FP0KWJFRA/ranciere__an_intellectual_adventure__from_the_ignorant_schoolmaster.pdf)," from _The Ignorant Schoolmaster_
+* Jacques Rancière, "[An Intellectual Adventure]()," from _The Ignorant Schoolmaster_
+* Molly Worthen, "Lecture Me. Really." *New York Times*, Oct. 17, 2015.
+* Kyla Wazana Tomkins, "[We Aren't Here to Learn What We Already Know](http://avidly.lareviewofbooks.org/2016/09/13/we-arent-here-to-learn-what-we-know-we-already-know/)." 
 * [CSI Undergraduate Course Bulletin](http://cinema.utoronto.ca/undergradcourses.html)
 * Sample CSI syllabi
-
+* Skim Gregory Semenza, "Teaching," from *Graduate Study for the 21st Century*.
 Homework due:
 * Write a [“course proposal”](./3rd_year_teaching.md) for a 200– or 300-level undergrad CSI course.
 
@@ -161,13 +170,13 @@ Topics covered:
 * On authority in the classroom
 * Developing your own class in fall of 3rd year
 
-#### Week 6, October 15: Writing for an audience
+#### Week 8, November 1: Writing for an audience
 Reading due:
-* Booth, et al., _The Craft of Research_ (peruse the whole book)
+* Booth, et al., _The Craft of Research_ (skim/peruse the whole book)
 
 Homework due:
-* By now, you should have read all your colleagues’ papers-to-revise.
-* Sketch a plan for revision.
+* By now, you should have read all your colleagues’ papers-to-revise
+* Sketch a plan for revision
 
 In-class visit:
 * **Faculty visit** the first. A faculty member will circulate an essay or book chapter, to discuss the work & their process.
@@ -178,13 +187,14 @@ Topics covered:
 * Developing your own writing process
 * Setting goals for revision
 
-#### Week 7, October 22: Process
+#### Reading week, November 8: No class.
+
+#### Week 9, November 15: Revision
 Reading due:
-* Bolker, _Writing Your Dissertation_, introduction, chs. 1–3, 5, and 8
-* Revisit Hayot, _Elements_, chs. 2 & 3
+* Bolker, _Writing Your Dissertation_, chs. 4–8.
 
 Homework due:
-* Revised plan for revision
+* Plan for revision
 * Reflection on process
 
 In-class visit:
@@ -195,17 +205,15 @@ Topics covered:
 * Process metacognition
 * Overview of the dissertation
 
-#### Week 8, October 29: Theme & character
+#### Week 10, November 22: Theme & character
 Reading due:
-* Booth et al., _The Craft of Research_, Part 4: “Planning, drafting, and revising”
-* Eric Hayot, _Elements_, ch. 8, “The Uneven U”
+* Booth et al., _The Craft of Research_, Part 4: “Planning, drafting, and revising,” especially chs. 12, 13, and 17.
 
 Homework due:
 * Theme & character paragraph revision études
-* Select an essay for “journal club” in a few weeks
 
 In-class visit:
-* **Faculty visit**: Charlie Keil.
+* **Faculty visit** the third
 
 Topics covered:
 * How to revise a sentence
@@ -213,18 +221,15 @@ Topics covered:
 * How to use theme & character to comment on students’ papers
 * A reminder: a draft of one of your exam lists + preface is due in four weeks.
 
-##### No class November 5; it's reading week.
-
-#### Week 9, November 12: Problem & structure
+#### Week 11, November 29: Problem & structure
 Reading due:
-* Booth et al.,  _Craft of Research_, Parts 2 & 3: “Asking Questions, Finding Answers” & “Making a Claim and Supporting It”
-* Hayot, _Elements_, ch. 9, “Structure and Subordination”
+* Booth et al.,  _Craft of Research_, Parts 2 & 3: “Asking Questions, Finding Answers” & “Making a Claim and Supporting It,” especially chs. 3–5 and 8.
 
 Homework due:
 * Problem and structure études
 
 In-class visit:
-* **Faculty visit**: Brian Jacobson.
+* **Faculty visit** the fourth
 
 Topics covered:
 * Arguments and what they do
@@ -233,41 +238,35 @@ Topics covered:
 * Writing and arguing with problems
 * Teaching questions & problems
 
-#### Week 10, November 19: Introductions
+#### Week 12, December 6: Introductions
 * Reread Booth et al., _Craft of Research_, ch. 16, “Introductions and Conclusions”
-* Hayot, _Elements_, ch. 11, “Introductions”
 
 Homework due:
-* Rewritten introduction.
+* Rewritten introduction
 
 In-class visit:
-* **Faculty visit**: James Cahill.
+* **Faculty visit**: TBA.
 
 Topics covered:
 * What introductions do.
 * Peer review of rewritten introductions.
 * Teaching students introductions.
 
-#### Week 11, November 26: “Journals Club,” abstracts, next steps
+#### Week 12, part 2, December 9: “Journals Club,” abstracts, next steps
 Reading due:
-* “Journals club” essays
-* Bolker, _Writing Your Dissertation_, chs. 4 & 7
-* Revisit Hayot, ch. 5
 * [On proposals](./on_proposals.md)
 
 Homework due:
-* Rough sketch of/elevator pitch for a dissertation project.
+* Submit portfolio of porcess documents:
+  * Plan for revision
+  * Précis for two exam lists
+  * Theme & character paragraph revisions
+  * Problem & structure etudes
+  * Rewritten introduction
+* Rough sketch of/elevator pitch for a dissertation project
 * Continue work on revisions.
 
-#### Week 12, December 3: Applying and presenting
-* No reading for proseminar; work on your papers & exam lists.
+#### January, early weeks, date TBD: Annual 2nd-year PhD conference
+You will present your revised conference paper to each other—and to the grads & faculty in the Institute.
 
-Possible in-class visit:
-* Final, pending in-class visit: Alberto Zambenedetti (to be confirmed)
 
-Homework due:
-* Rough draft of one exam preface & list, in consultation with your supervisor.
-* Conference proposal abstract.
-
-#### During finals period: a conference
-Mini-conference to be scheduled during finals period. _To be semi-public (CSI community invited) or not, according to consensus._
