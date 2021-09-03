@@ -14,10 +14,10 @@ Below is a list of books that may help, in a few categories
 #### On writing
 ##### All three of our required books:
 * Joan Bolker, _Writing Your Dissertation in Fifteen Minutes a Day_ <br /> This book stresses process over product, and contains a great deal of hard-won and sensible practical wisdom. The title is bad; the book is very good.
-* Eric Hayot, _The Elements of Academic Style: Writing for the Humanities_ <br /> This is one opinionated take on academic writing. I appreciate all of the opinions, if disagree with some of them. That said, it’s clearly written and compellingly presented and will probably serve you very well.
 * Wayne Booth et al., _The Craft of Research_ <br /> I _believe_ in this book; it has oriented much of how I write and teach writing. It’s technical, and sometimes it feels elementary. It is not: it is _explicit_ in ways that only appear simplistic.
 
 ##### Books that others have recommended, or which I have not assigned:
+* Eric Hayot, _The Elements of Academic Style: Writing for the Humanities_ <br /> This is one opinionated take on academic writing. I appreciate all of the opinions, if disagree with some of them. That said, it’s clearly written and compellingly presented and will probably serve you very well.
 * Joseph Williams, _Style: Towards Clarity and Grace_ (Chicago: 1990). <br /> Hayot is very high on this book. I have not read it, but have heard others also enthuse. Its emphasis is on the technical craft of prose.
 * Wendy Belcher, _Writing Your Journal Article in Twelve Weeks_ (Chicago, 2019). <br /> This was recommended to me as a first-year assistant professor; I did not like it and set it aside. Others _swear_ by it, especially those who didn’t pick up academic culture by forced osmosis. I suspect if I had been more receptive to the idea that I needed help with my process, I would have had a very different experience of this book.
 * Joli Jensen, _Write No Matter What_ (Chicago, 2017). <br /> This book is excellent for people who love structure. Its basic thesis is that academia is anathema to what actually produces good writing and good writing processes, and it's up to each of us to develop a writing practice that can actually sustain us and our thought. It's very bossy and structured, so if you respond to that sort of bossiness, this may be for you.
