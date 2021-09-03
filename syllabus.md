@@ -174,13 +174,13 @@ Topics covered:
 #### Week 8, November 1: Writing for an audience
 Reading due:
 * Booth, et al., _The Craft of Research_ (skim/peruse the whole book)
+* A paper from a faculty member
 
 Homework due:
 * By now, you should have read all your colleagues’ papers-to-revise
 * Sketch a plan for revision
 
-In-class visit:
-* **Faculty visit** the first. A faculty member will circulate an essay or book chapter, to discuss the work & their process.
+In-class visit: **Faculty visit** the first
 
 Topics covered:
 * How to approach revision
@@ -191,19 +191,19 @@ Topics covered:
 
 #### Reading week, November 8: No class
 
-#### Program milestone: Superivsor and Supervisory Committee must be selected.
+#### Program milestone, November 15: Superivsor and Supervisory Committee must be selected and the graduate office notified.
 
-#### Week 9, November 15: Revision
+#### Week 9, November 15: Writing is revising
 Reading due:
-* Bolker, _Writing Your Dissertation_, chs. 4–8.
+* Bolker, _Writing Your Dissertation_, chs. 4–8
+* A paper from a faculty member
 
 Homework due:
 * Plan for revision
 * Reflection on process
 * Read & comment on your partner's current-draft-in-revision
 
-In-class visit:
-* **Faculty visit** the second. A faculty member will circulate an essay or book chapter, to discuss the work & their process.
+In-class visit: **Faculty visit** the second
 
 Topics covered:
 * Thinking well about process
@@ -212,29 +212,28 @@ Topics covered:
 
 #### Week 10, November 22: Theme & character
 Reading due:
-* Booth et al., _The Craft of Research_, Part 4: “Planning, drafting, and revising,” especially chs. 12, 13, and 17.
+* Booth et al., _The Craft of Research_, Part 4: “Planning, drafting, and revising,” especially chs. 12, 13, and 17
+* A paper from a faculty member
 
 Homework due:
 * Theme & character paragraph revision études
 
-In-class visit:
-* **Faculty visit** the third
+In-class visit: **Faculty visit** the third
 
 Topics covered:
 * How to revise a sentence
 * How to revise a paragraph
 * How to use theme & character to comment on students’ papers
-* A reminder: a draft of one of your exam lists + preface is due in four weeks.
 
 #### Week 11, November 29: Problem & structure
 Reading due:
-* Booth et al.,  _Craft of Research_, Parts 2 & 3: “Asking Questions, Finding Answers” & “Making a Claim and Supporting It,” especially chs. 3–5 and 8.
+* Booth et al.,  _Craft of Research_, Parts 2 & 3: “Asking Questions, Finding Answers” & “Making a Claim and Supporting It,” especially chs. 3–5 and 8
+* A paper from a faculty member
 
 Homework due:
 * Problem and structure études
 
-In-class visit:
-* **Faculty visit** the fourth
+In-class visit: **Faculty visit** the fourth
 
 Topics covered:
 * Arguments and what they do
@@ -243,10 +242,13 @@ Topics covered:
 * Writing and arguing with problems
 * Teaching questions & problems
 
-#### Program milestone: Qualifying Exam form must be filed with graduate office (includes drafts of special fields précis and lists)
+#### Program milestone, first week of December: Qualifying Exam form must be filed with graduate office (includes drafts of special fields précis and lists)
 
 #### Week 12, December 6: Introductions
 * Reread Booth et al., _Craft of Research_, ch. 16, “Introductions and Conclusions”
+* Scott's paper
+
+"In-class visit": Scott makes you read his work and talk about it.
 
 Homework due:
 * Rewritten introduction
@@ -261,6 +263,7 @@ Reading due:
 * [On proposals](./on_proposals.md)
 
 Homework due:
+* Conference proposal
 * Submit portfolio of process documents:
   * Plan for revision
   * Précis for two exam lists
