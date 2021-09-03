@@ -114,7 +114,7 @@ In-class visit:
 
 Homework due:
 * Peruse school of graduate studies resources pages [here](https://www.one-tab.com/page/VS8lKYd2SvaQLKbzzymcGA)
-* Write an abstract of ~200–300 words, articulating a possible field for an exam area
+* Write a rough draft of a special field précis, of ~250 words, articulating a possible field for an exam area (NB: we will talk about these, but the rest of the special field exam process will be in consultation with your supervisor)
 
 Topics covered:
 * Getting your head straight about the next milestone: the exam
@@ -127,7 +127,7 @@ Topics covered:
 #### Week 6, October 18: Sharing your scholarship: Publishing and Conferencing
 Reading due:
 * Kelsky, “Publish This, Not That,” and “Applying to Conferences” from _The Professor is In_
-* Gregory Semenza, "Attending Conferences" and "Publishing,  from _Graduate Study for the 21st Century_
+* Gregory Semenza, "Attending Conferences" and "Publishing," from _Graduate Study for the 21st Century_
 * Scott's selection(s) from "journal club" (TBD).
 * Peruse the [Penn English CFPs](http://call-for-papers.sas.upenn.edu/)
 * Browse websites & programs for conferences in our [conference list](./conferences.md)
@@ -179,6 +179,7 @@ Reading due:
 Homework due:
 * By now, you should have read all your colleagues’ papers-to-revise
 * Sketch a plan for revision
+* Reminder: your special fields exams précis are due to the graduate office in a month
 
 In-class visit: **Faculty visit** the first
 
