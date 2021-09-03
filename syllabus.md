@@ -44,7 +44,7 @@ The reading for this course has a different status than in other sorts of course
 
 ### Required texts
 We have two required books this term. You are responsible for acquiring these in some version, preferably not an e-book, but something with standard page numbers:
-* Wayne Booth, et al., _The Craft of Research_, 4th ed. (Please do buy the current version, as we will be working with it closely.)
+* Wayne Booth, et al., _The Craft of Research_, 4th ed. (Please do buy the current version.)
 * Joan Bolker, _Writing Your Dissertation in Fifteen Minutes a Day_
 
 #### Recommended texts
@@ -69,11 +69,11 @@ Topics covered:
 * Demystifying academic writing
 * The importance of a writing group
 
-#### Week 2, September 20: What is a university?
+#### Week 2, September 20: What is a university? How do we occupy it?
 Reading due:
 * Wendy Brown, “Educating Human Capital,” from _Undoing the Demos_
 * Malcolm Harris, “Go to College,” from _Kids These Days: Human Capital and the Making of Millennials_
-* William Zissner, “College Pressures”
+* William Zinsser, “College Pressures”
 * Fred Moten & Stefany Harney, "The University and the Undercommons: Seven Theses"
 * Gregory Colón Semenza, “The Culture of a Graduate Program,” from _Graduate Study for the 21st Century_
 
