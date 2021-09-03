@@ -109,11 +109,11 @@ In-class visit:
 * Students TBD from current 3rd year cohort talk about their exam experiences.
 
 Homework due:
-* Complete CRC web workshop on grad resources.
+* Peruse school of graduate studies resources pages [here](https://www.one-tab.com/page/VS8lKYd2SvaQLKbzzymcGA).
 
 Topics covered:
 * Getting your head straight about the next milestone: the exam
-* A prompt: if you have not already, approach a faculty member regarding supervision
+* A prompt: if you have not already, approach a faculty member for a meeting to discuss supervision
 * Another prompt: if you already have a supervisor, email them about exams
 * What to talk about, and how to talk with a supervisor
 
