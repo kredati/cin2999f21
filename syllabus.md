@@ -83,7 +83,7 @@ Topics covered:
 * The cult of (over)work
 * What kinds of activities do we want to do?
 
-#### Week 3, September 27: The program & surviving it, part 1: The long view
+#### Week 3, September 27: The program & surviving it, part 1: The long view: Outcomes
 Reading due:
 * Karen Kelsky “Why You Want and Need Grants,” and “Where are the Jobs? Institution Types and Ranks,” from _The Professor is In_
 * Sample winning doctoral SSHRC proposal (TBD).
@@ -104,7 +104,7 @@ Topics covered:
 Homework due:
 * Upload your journal club article. *Select an essay or book chapter, published in English (not translated), since 2000, that is the kind of academic writing that really turns your crank: it inspires you to acts of research & intellection. It's best, but not requred, for it to be a stand-alone piece: a journal article or chapter in an edited volume (and not a chapter from a monograph). Upload a PDF of it to the course Slack.*
 
-#### Week 4, October 4: The program & surviving it, part 2: The short view
+#### Week 4, October 4: The program & surviving it, part 2: The short view: Next steps
 Reading due:
 * Bolker, _Writing Your Dissertation_, ch. 2, “Choosing and Advisor and a Committee”
 * Kelsky, “Best Advisors, Worst Advisors,” and “A Good Advisor is Not Nice” from _The Professor is In_
@@ -113,7 +113,8 @@ In-class visit:
 * Students TBD from current 3rd year cohort talk about their exam experiences
 
 Homework due:
-* Peruse school of graduate studies resources pages [here](https://www.one-tab.com/page/VS8lKYd2SvaQLKbzzymcGA).
+* Peruse school of graduate studies resources pages [here](https://www.one-tab.com/page/VS8lKYd2SvaQLKbzzymcGA)
+* Write an abstract of ~200–300 words, articulating a possible field for an exam area
 
 Topics covered:
 * Getting your head straight about the next milestone: the exam
@@ -127,7 +128,7 @@ Topics covered:
 Reading due:
 * Kelsky, “Publish This, Not That,” and “Applying to Conferences” from _The Professor is In_
 * Gregory Semenza, "Attending Conferences" and "Publishing,  from _Graduate Study for the 21st Century_
-* Scott's selections from "journal club" (TBD).
+* Scott's selection(s) from "journal club" (TBD).
 * Peruse the [Penn English CFPs](http://call-for-papers.sas.upenn.edu/)
 * Browse websites & programs for conferences in our [conference list](./conferences.md)
 * Browse websites for a few journals in [SCMS's film & media studies journals list](https://www.cmstudies.org/page/resource_journals_AF)
