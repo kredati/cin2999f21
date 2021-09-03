@@ -56,8 +56,8 @@ A modal dissertation in cinema studies has four chapters (of 40ish pages), as we
 
 #### What a dissertation does.
 It’s useful to know what a dissertation does when you propose one. My just-so story about a dissertation is that it does three things. It:
-* Teaches you, by doing, how to have a nearly book-sized thought and how to execute a nearly book-sized research project. (The only way to learn this is by doing it.)
-* Serves as a resource for job market materials. Its most notable functions are as a prop for a statement of a research program, and as an archive of other materials including a writing sample, a job talk, a published essay.
+* Teaches you, by doing, how to have a nearly book-sized thought and how to execute a nearly book-sized research project. (The only way to learn this is by doing it.) In particular, you'll learn how to have a big enough thought that you can't hold it all in your head at once. This is really, really hard.
+* Serves as a resource for job market materials. Its most notable functions are as a prop for a statement of a research program, and as an archive of other materials including a writing sample, a job talk, and a published essay.
 * Serves as a token of professionalization: you give it to a committee, they confer on you a PhD. This is the lowest bar to clear and in many ways the least important function. It’s the floor; aim higher than the floor.
 
 Eric Hayot has an additional idea of what a dissertation does in _The Elements of Academic Style_, which is: it serves as a waypoint on the way to a book. I suspect this is also a good way of thinking about it. A dissertation should be an undercooked part of a book, where finishing the bake and adding an additional chapter or two are what happens in the five years after finishing it.
