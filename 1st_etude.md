@@ -13,7 +13,6 @@ The preparation here is fairly straightfoward:
   * **What Walter Benjamin can teach us about our current situation** lies mostly in his concept of reception in distraction.
   * **The argument Derrida makes in _Voice and Phenomenon_ about the voice as pure auto-affection, in which he reworks Husserl's argument about writing in _The Origin of Geometry_,** has led to an unfairly negative view of Husserl among readers of French theory.
   * **It** is important to understand the ways in which Laura Mulvey deploys Freud and Lacan.
-4. Following Hayot, and using his scale, assign each sentence a a "level of abstraction" that makes sense in its context, from high-level theoretical claim to factual statement.
 
 ### Lesson 
 #### In class on Tuesday, October 29.
