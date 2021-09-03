@@ -62,6 +62,7 @@ Reading due:
 * Joli Jensen, preface & Part 1 of *Write No Matter What*
 * Alan Henry, “[Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)”
 * Alan Henry, “[Productivity 101: A Primer to the Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)”
+* Clive Thompson, "[Hundreds of Ways to Get S#!+ Done—and We Still Don’t](https://www.wired.com/story/to-do-apps-failed-productivity-tools/)"
 
 Topics covered:
 * Approaches to process, including metacognition
