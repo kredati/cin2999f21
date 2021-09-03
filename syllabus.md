@@ -89,7 +89,8 @@ Homework due:
 #### Week 3, September 27: The program & surviving it, part 1: The long view: Outcomes
 Reading due:
 * Karen Kelsky “Why You Want and Need Grants,” and “Where are the Jobs? Institution Types and Ranks,” from _The Professor is In_
-* Sample winning doctoral SSHRC proposal (TBD).
+* Katrina Rogers, "Introduction: Putting the PhD to Work—for the Public Good," from *Putting the Humanities PhD to Work*
+* Sample winning doctoral SSHRC proposal (TBD)
 * Film studies job wikis: [2018–19](https://academicjobs.wikia.org/wiki/Film_Studies_2018-2019); [2019–20](https://academicjobs.wikia.org/wiki/Film_Studies_2019-2020); [2020–21](https://academicjobs.wikia.org/wiki/Film_Studies_2020-2021); [2021–22](https://academicjobs.wikia.org/wiki/Film_Studies_2021-2022).
 
 * [CSI PhD handbook](./phd_handbook_2021.docx)
@@ -99,6 +100,7 @@ Topics covered:
 * Getting what you need
 * Applying for grants
 * The long view of an academic career trajectory
+* Thinking about alternatives to the academic job market
 * What to produce & when (from now through tenure)
 * Kinds of jobs
 * What does a job ad look like
