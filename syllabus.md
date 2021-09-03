@@ -184,11 +184,14 @@ In-class visit:
 
 Topics covered:
 * How to approach revision
+* Making good comments for revision
 * Selecting audiences, writing for audiences
 * Developing your own writing process
 * Setting goals for revision
 
-#### Reading week, November 8: No class.
+#### Reading week, November 8: No class
+
+#### Program milestone: Superivsor and Supervisory Committee must be selected.
 
 #### Week 9, November 15: Revision
 Reading due:
@@ -197,6 +200,7 @@ Reading due:
 Homework due:
 * Plan for revision
 * Reflection on process
+* Read & comment on your partner's current-draft-in-revision
 
 In-class visit:
 * **Faculty visit** the second. A faculty member will circulate an essay or book chapter, to discuss the work & their process.
@@ -239,33 +243,32 @@ Topics covered:
 * Writing and arguing with problems
 * Teaching questions & problems
 
+#### Program milestone: Special fields 
+
 #### Week 12, December 6: Introductions
 * Reread Booth et al., _Craft of Research_, ch. 16, “Introductions and Conclusions”
 
 Homework due:
 * Rewritten introduction
 
-In-class visit:
-* **Faculty visit**: TBA.
-
 Topics covered:
-* What introductions do.
-* Peer review of rewritten introductions.
-* Teaching students introductions.
+* What introductions do
+* Peer review of rewritten introductions
+* Teaching students introductions
 
-#### Week 12, part 2, December 9: “Journals Club,” abstracts, next steps
+#### Week 12, part 2, December 9: Proposals & portfolios
 Reading due:
 * [On proposals](./on_proposals.md)
 
 Homework due:
-* Submit portfolio of porcess documents:
+* Submit portfolio of process documents:
   * Plan for revision
   * Précis for two exam lists
+  * Undergraduate course proposal
   * Theme & character paragraph revisions
   * Problem & structure etudes
   * Rewritten introduction
-* Rough sketch of/elevator pitch for a dissertation project
-* Continue work on revisions.
+  * Conference proposal
 
 #### January, early weeks, date TBD: Annual 2nd-year PhD conference
 You will present your revised conference paper to each other—and to the grads & faculty in the Institute.
