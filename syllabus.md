@@ -116,7 +116,7 @@ Reading due:
 * Kelsky, “Best Advisors, Worst Advisors,” and “A Good Advisor is Not Nice” from _The Professor is In_
 
 In-class visit:
-* Students TBD from current 3rd year cohort talk about their exam experiences
+* Current 3rd year students Mynt Marcellus and Meghan McDonald talk about their exam experiences
 
 Homework due:
 * Peruse school of graduate studies resources pages [here](https://www.one-tab.com/page/VS8lKYd2SvaQLKbzzymcGA)
