@@ -7,12 +7,13 @@ We acknowledge this sacred land on which the University of Toronto operates. It 
 Today, the meeting place of Toronto is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work in the community, on this territory.
 
 ### Administrativa
-* **Course meetings.** , Mondays, 1–3pm. Format TBD.
+* **Course meetings.** , Mondays, 1–3pm, by Zoom.
 * **Instructor.** Scott Richmond, Associate Professor of Cinema & Digital Media.
 * **Office.** Innis 230E.
-* **Office hours.** Wednesdays, 1–4pm, and by appointment. NB: You must book an office hours slot ahead of time using [Scott's bookings app](https://outlook.office365.com/owa/calendar/ScottRichmond@utoronto.onmicrosoft.com/bookings/).
-* **Group pomodoros.** TBD. (More on this below.)
+* **Office hours.** Wednesdays, 1–4pm, and by appointment. NB: You must book an office hours slot ahead of time using [Scott's bookings app](https://outlook.office365.com/owa/calendar/ScottRichmond@utoronto.onmicrosoft.com/bookings/). If you cannot make Scott's regular office hours, email him to set up a mutually convenient appointment.
+* **Group pomodoros.** Wednesdays, 10am–noon, by Zoom.
 * **Contact.** by email: s.richmond@utoronto.ca, or by Slack DM.
+* **Accessing Zoom.** You should have received a calendar invitation from Scott to the course meetings (regular seminar and group pomodoros). The Zoom meeting information is in those invitations.
 
 ### Course description
 This course is required of all second-year PhD students in the Cinema Studies Institute. The course aims to give students the para-academic skills they require to survive and thrive in the CSI PhD program, as researchers and teachers in the fields of cinema and media studies, and as professionals in the academy and beyond.
@@ -32,13 +33,14 @@ In this course, students will:
 * Discuss major advising and program goals with the class and their supervisor, including (but not limited to) exams, publishing, conferences, and possible dissertation projects.
 * Gain critical familiarity with all parts of academic life, including research (publishing, conferences, grants, writing), teaching, and service.
 * Encounter and discuss all major milestones of the academic career path up to tenure.
+* Begin thinking about alternatives to the professorial–academic career path.
 * Read the work of, and engage in conversation with, a substantial number of CSI faculty.
 * Develop awareness of themselves as writers and of their research, writing, and revising process.
 * Revise one term paper from their first year coursework into a fully-realized conference paper.
 * In the course of revising this paper, gain familiarity with one set of methods for understanding and revising academic writing.
 
 ### Coursework & marks
-This course is pass/fail. To gain a passing mark, students must complete, to my satisfaction, all assignments in the course by their stated deadline. In other words: almost all of this is process-based; do the things in good faith, trust the process, pass the course.
+This course is pass/fail. To gain a passing mark, students must complete, to my satisfaction, all assignments in the course by their stated deadline, and absolutely not later than the end of term, to be turned in a work portfolio not later than December 9, 2021. In other words: almost all of this is process-based; do the things in good faith, trust the process, pass the course.
 
 The reading for this course has a different status than in other sorts of coursework. Please do the reading carefully, but not exactingly; I would not ask you to do it if I didn’t think it important. By the same token, some of the reading is there to be a resource to you as you develop your practice and in later stages of the program. I will do my best to guide you in the kind of reading I expect.
 
@@ -91,7 +93,7 @@ Homework due:
 Reading due:
 * Karen Kelsky “Why You Want and Need Grants,” and “Where are the Jobs? Institution Types and Ranks,” from _The Professor is In_
 * Katrina Rogers, "Introduction: Putting the PhD to Work—for the Public Good," from *Putting the Humanities PhD to Work*
-* Sample winning doctoral SSHRC proposal (TBD)
+* Sample winning doctoral SSHRC proposal
 * Film studies job wikis: [2018–19](https://academicjobs.wikia.org/wiki/Film_Studies_2018-2019); [2019–20](https://academicjobs.wikia.org/wiki/Film_Studies_2019-2020); [2020–21](https://academicjobs.wikia.org/wiki/Film_Studies_2020-2021); [2021–22](https://academicjobs.wikia.org/wiki/Film_Studies_2021-2022).
 
 * [CSI PhD handbook](./phd_handbook_2021.docx)
@@ -189,7 +191,7 @@ Homework due:
 * Sketch a plan for revision
 * Reminder: your special fields exams précis are due to the graduate office in a month
 
-In-class visit: **Faculty visit** the first
+In-class visit: **Faculty visit** the first: James Cahill
 
 Topics covered:
 * How to approach revision
@@ -212,7 +214,7 @@ Homework due:
 * Reflection on process
 * Read & comment on your partner's current-draft-in-revision
 
-In-class visit: **Faculty visit** the second
+In-class visit: **Faculty visit** the second: Corinn Columpar
 
 Topics covered:
 * Thinking well about process
@@ -227,7 +229,7 @@ Reading due:
 Homework due:
 * Theme & character paragraph revision études
 
-In-class visit: **Faculty visit** the third
+In-class visit: **Faculty visit** the third: Alice Maurice
 
 Topics covered:
 * How to revise a sentence
@@ -242,7 +244,7 @@ Reading due:
 Homework due:
 * Problem and structure études
 
-In-class visit: **Faculty visit** the fourth
+In-class visit: **Faculty visit** the fourth: Felan Parker
 
 Topics covered:
 * Arguments and what they do
