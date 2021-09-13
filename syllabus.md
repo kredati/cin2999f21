@@ -286,5 +286,3 @@ Homework due:
 
 #### January, early weeks, date TBD: Annual 2nd-year PhD symposium
 You will present your revised conference papers to each other—and to the grads & faculty in the Institute.
-
-
