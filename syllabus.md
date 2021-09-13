@@ -74,11 +74,11 @@ Topics covered:
 
 #### Week 2, September 20: What is a university? How do we occupy it?
 Reading due:
-* Wendy Brown, “Educating Human Capital,” from _Undoing the Demos_
-* Malcolm Harris, “Go to College,” from _Kids These Days: Human Capital and the Making of Millennials_
+* Wendy Brown, [“Educating Human Capital,”](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02EENBFFHS/wendy_brown_-_educating_human_capital__from_undoing_the_demos.pdf) from _Undoing the Demos_
+* Malcolm Harris, [“Go to College,”](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02E8G33718/malcolm_harris_-_go_to_college__from_kids_these_days.pdf) from _Kids These Days: Human Capital and the Making of Millennials_
 * William Zinsser, “College Pressures”
-* Fred Moten & Stefany Harney, "The University and the Undercommons: Seven Theses"
-* Gregory Colón Semenza, “The Culture of a Graduate Program,” from _Graduate Study for the 21st Century_
+* Fred Moten & Stefany Harney, ["The University and the Undercommons: Seven Theses"](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02DTV8JAG7/fred_moten_and_stefano_harney_-_the_university_and_the_undercommons.pdf)
+* Gregory Colón Semenza, [“The Culture of a Graduate Program,”](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02E8G1P8E7/gregory_col__n_semenza_-_the_culture_of_a_graduate_program__from_graduate_study_for_the_21st_century.pdf) from _Graduate Study for the 21st Century_
 
 Topics covered:
 * Neoliberalism & higher education, and how to relate to/survive it
@@ -91,9 +91,9 @@ Homework due:
 
 #### Week 3, September 27: The program & surviving it, part 1: The long view: Outcomes
 Reading due:
-* Karen Kelsky “Why You Want and Need Grants,” and “Where are the Jobs? Institution Types and Ranks,” from _The Professor is In_
-* Katrina Rogers, "Introduction: Putting the PhD to Work—for the Public Good," from *Putting the Humanities PhD to Work*
-* Sample winning doctoral SSHRC proposal
+* Karen Kelsky “Why You Want and Need Grants,” and “Where are the Jobs? Institution Types and Ranks,” from _The Professor is In_ (NB: All selections from Kelsky are available [here](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02DTQAJ5PZ/karen_kelsky__selections_from_the_professor_is_in.pdf).)
+* Katrina Rogers, ["Introduction: Putting the PhD to Work—for the Public Good,"](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02DTQK4U8P/katrina_rogers_-_putting_the_humanities_phd_to_work.pdf) from *Putting the Humanities PhD to Work*
+* [Sample winning doctoral SSHRC proposal](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02EMALUQHF/sam_reimer_-_sshrc_proposal.pdf)
 * Film studies job wikis: [2018–19](https://academicjobs.wikia.org/wiki/Film_Studies_2018-2019); [2019–20](https://academicjobs.wikia.org/wiki/Film_Studies_2019-2020); [2020–21](https://academicjobs.wikia.org/wiki/Film_Studies_2020-2021); [2021–22](https://academicjobs.wikia.org/wiki/Film_Studies_2021-2022).
 
 * [CSI PhD handbook](./phd_handbook_2021.docx)
@@ -136,7 +136,7 @@ Topics covered:
 #### Week 6, October 18: Sharing your scholarship: Publishing and Conferencing
 Reading due:
 * Kelsky, “Publish This, Not That,” and “Applying to Conferences” from _The Professor is In_
-* Gregory Semenza, "Attending Conferences" and "Publishing," from _Graduate Study for the 21st Century_
+* Gregory Semenza, ["Attending Conferences"](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02EYANEM4G/semenza_-_conferences.pdf) and ["Publishing,"](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02E8MP42P4/semenza_-_publishing.pdf) from _Graduate Study for the 21st Century_
 * Scott's selection(s) from "journal club" (TBD).
 * Peruse the [Penn English CFPs](http://call-for-papers.sas.upenn.edu/)
 * Browse websites & programs for conferences in our [conference list](./conferences.md)
@@ -162,8 +162,8 @@ Topics covered:
 
 #### Week 7, October 25: Forming young minds: pedagogy
 Reading due:
-* Jacques Rancière, "[An Intellectual Adventure]()," from _The Ignorant Schoolmaster_
-* Molly Worthen, "Lecture Me. Really." *New York Times*, Oct. 17, 2015.
+* Jacques Rancière, "[An Intellectual Adventure](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02E8G1P0N7/ranciere__an_intellectual_adventure__from_the_ignorant_schoolmaster.pdf)," from _The Ignorant Schoolmaster_
+* Molly Worthen, ["Lecture Me. Really,"](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02E5MJAY2Z/molly_worther_-_lecture_me__really.pdf) *New York Times*, Oct. 17, 2015.
 * Kyla Wazana Tomkins, "[We Aren't Here to Learn What We Already Know](http://avidly.lareviewofbooks.org/2016/09/13/we-arent-here-to-learn-what-we-know-we-already-know/)." 
 * [CSI Undergraduate Course Bulletin](http://cinema.utoronto.ca/undergradcourses.html)
 * Sample CSI syllabi
