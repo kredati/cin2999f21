@@ -135,6 +135,7 @@ Topics covered:
 
 #### Week 6, October 18: Sharing your scholarship: Publishing and Conferencing
 Reading due:
+* Film and media studies journal editors, ["From Submission to Publication"](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02G6MVA7TR/from_submission_to_publication_final.pdf)
 * Kelsky, “Publish This, Not That,” and “Applying to Conferences” from _The Professor is In_
 * Gregory Semenza, ["Attending Conferences"](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02EYANEM4G/semenza_-_conferences.pdf) and ["Publishing,"](https://cin2999f21.slack.com/files/U02D6R6FEKY/F02E8MP42P4/semenza_-_publishing.pdf) from _Graduate Study for the 21st Century_
 * Scott's selection(s) from "journal club" (TBD).
