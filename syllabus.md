@@ -188,6 +188,7 @@ Reading due:
 * A paper from a faculty member
 
 Homework due:
+* "Preparation" phase of the [first étude](./1st_etude.md)
 * By now, you should have read all your colleagues’ papers-to-revise
 * Sketch a plan for revision
 * Reminder: your special fields exams précis are due to the graduate office in a month
