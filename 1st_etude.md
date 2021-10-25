@@ -5,7 +5,7 @@
 The idea here is to revise a single of your paragraphs so that it is _really good_. We'll use methods both from Booth and from Hayot to revise a paragraph of your writing. As with all our études this term, we will have a preparation (that is largely diagnostic), an in-class lesson that demonstrates and workshops techniques we read about, and a follow-up that applies those techniques to your writing.
 
 ### Preparation
-#### Due in class on Tuesday, October 29.
+#### Due in class on Monday, November 1.
 The preparation here is fairly straightfoward:
 1. Select a paragraph you will revise.
 2. Following Booth, circle or italicize every word that appears more than once in the paragraph.
@@ -15,7 +15,7 @@ The preparation here is fairly straightfoward:
   * **It** is important to understand the ways in which Laura Mulvey deploys Freud and Lacan.
 
 ### Lesson 
-#### In class on Tuesday, October 29.
+#### In class on Monday, November 1.
 In this lesson, as a class, we will arrange one of your sample paragraphs together so that it: 
 1. uses themes in a controlled fashion, drawing together three different themes, and not more; 
 2. puts subjects and verbs consistently as close together as possible, eschewing qualifying clauses and complex subjects; 
@@ -23,5 +23,5 @@ In this lesson, as a class, we will arrange one of your sample paragraphs togeth
 4. uses consistent characters, matching your thematic strands, with two or perhaps three characters in the paragraph.
 
 ### Application
-#### Due to course Slack by Monday, November 11.
+#### Due to course Slack by end of day on Sunday, November 14.
 This will be labourious and a bit technical, but you should revise your paragraph using the techniques we work out together in class. Prepare a document that includes the original and the revised version. Your paragraph should meet all 5 criteria above.
