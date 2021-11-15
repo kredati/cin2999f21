@@ -212,9 +212,7 @@ Reading due:
 * A paper from a faculty member
 
 Homework due:
-* Plan for revision
-* Reflection on process
-* Read & comment on your partner's current-draft-in-revision
+* None
 
 In-class visit: **Faculty visit** the second: Corinn Columpar
 
@@ -223,20 +221,18 @@ Topics covered:
 * Process metacognition
 * Overview of the dissertation
 
-#### Week 10, November 22: Theme & character
+#### Week 10, November 22: More on process, planning & unplanning
 Reading due:
 * Booth et al., _The Craft of Research_, Part 4: “Planning, drafting, and revising,” especially chs. 12, 13, and 17
 * A paper from a faculty member
 
 Homework due:
-* Theme & character paragraph revision études
+* None
 
 In-class visit: **Faculty visit** the third: Alice Maurice
 
 Topics covered:
-* How to revise a sentence
-* How to revise a paragraph
-* How to use theme & character to comment on students’ papers
+* TBD
 
 #### Week 11, November 29: Problem & structure
 Reading due:
@@ -244,7 +240,7 @@ Reading due:
 * A paper from a faculty member
 
 Homework due:
-* Problem and structure études
+* Problem and structure études: https://github.com/kredati/cin2999f21/blob/master/2nd_etude.md
 
 In-class visit: **Faculty visit** the fourth: Felan Parker
 
@@ -264,7 +260,8 @@ Topics covered:
 "In-class visit": Scott makes you read his work and talk about it.
 
 Homework due:
-* Rewritten introduction
+* Rough draft of a new introduction for your paper.
+* [Application portion of the problem & structure études](https://github.com/kredati/cin2999f21/blob/master/2nd_etude.md#application)
 
 Topics covered:
 * What introductions do
