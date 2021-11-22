@@ -1,5 +1,5 @@
 # CSI PhD Proseminar
-## Fall 2019
+## Fall 2021
 
 ### Quick links
 * See the [syallbus](./syllabus.md)
