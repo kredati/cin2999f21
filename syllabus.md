@@ -268,12 +268,14 @@ Topics covered:
 * Peer review of rewritten introductions
 * Teaching students introductions
 
-#### Week 12, part 2, December 9: Proposals & portfolios
+#### Week 12, part 2, December 9: Proposals
 Reading due:
 * [On proposals](./on_proposals.md)
 
 Homework due:
 * Conference proposal
+
+#### December 21: Final portfolio due
 * Submit portfolio of process documents:
   * Draft précis for two exam lists
   * Undergraduate course proposal
