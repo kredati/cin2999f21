@@ -275,8 +275,7 @@ Reading due:
 Homework due:
 * Conference proposal
 * Submit portfolio of process documents:
-  * Plan for revision
-  * Précis for two exam lists
+  * Draft précis for two exam lists
   * Undergraduate course proposal
   * Theme & character paragraph revisions
   * Problem & structure etudes
