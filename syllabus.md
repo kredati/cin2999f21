@@ -273,7 +273,7 @@ Reading due:
 * [On proposals](./on_proposals.md)
 
 Homework due:
-* Conference proposal
+* [Conference proposal](./on_conference_proposals.md)
 
 #### December 21: Final portfolio due
 * Submit portfolio of process documents:
